@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuanLiChiTieuCaNhan</string>
+    <string name="text_accounts">Danh sách tài khoản</string>
+    <string name="hint_name">Tên</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mật khẩu</string>
+    <string name="hint_confirm_password">Nhập lại mật khẩu</string>
+    <string name="text_login">Đăng nhập</string>
+    <string name="text_register">Đăng ký</string>
+    <string name="error_message_name">Nhập đầy đủ họ và tên</string>
+    <string name="error_message_email">Nhập email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Nhập mật khẩu</string>
+    <string name="success_message">Đăng ký hoàn tất</string>
+    <string name="text_not_member">Bạn chưa có tài khoản? Hãy vào đăng kí</string>
+    <string name="text_already_member">Bạn đã có tài khoản? Hãy vào đăng nhập</string>
+    <string name="error_email_exists">Email này đã tồn tại</string>
+    <string name="error_password_match">Mật khẩu không khớp</string>
+    <string name="error_valid_email_password">Sai email hoặc mật khẩu</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="text_hello">Xin Chào, </string>
+    <string name="text_title">Manage Your Money</string>
+</resources>
